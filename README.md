@@ -22,6 +22,3 @@ This repository contains the code for Activity 2 of the MERN stack course. The p
 
 Created by Chirag Yadav.
 
----
-
-Feel free to modify the description as needed!
